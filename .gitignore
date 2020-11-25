@@ -1,0 +1,19 @@
+# java
+*.class
+*.jar
+*.war
+*.ear
+
+# eclipse
+.apt_generated
+.classpath
+.factorypath
+.metadata
+.project
+.settings
+
+# maven
+/target/
+
+# misc
+*.log
