@@ -17,3 +17,6 @@
 
 # misc
 *.log
+
+# VS code
+.vscode/
